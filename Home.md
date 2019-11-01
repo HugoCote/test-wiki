@@ -4,7 +4,7 @@
 
 [_TOC_]
 
-- [Installations](programmation/installation)
+- [Installations](programmation/installation.md)
 - [Autre]
 
 #### Liens :
