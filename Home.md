@@ -2,10 +2,6 @@
 >
 > Shakira 
 
-# Global TOC 
-
-<<GlobalTOC()>>
-
 # Manual TOC 
 
 [[_TOC_]]
