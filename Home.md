@@ -7,13 +7,11 @@
 [[_TOC_]]
 
 - [Installations](programmation/installation.md)
-- [[programmation/installation.md]]
 - [[installation]]
-- [[installation.md]]
 - [Autre]
 
 ## Installations :
-[[include:installation]]
+[[include:programmation/installation.md]]
 
 ~~~~~~~~
 Here comes some code.
