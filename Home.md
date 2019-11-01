@@ -2,4 +2,10 @@
 >
 > Shakira 
 
-## [Installations](programmation/installation)
+[_TOC_]
+
+- [Installations](programmation/installation)
+- [Autre]
+
+#### Liens :
+[[link-text|http://example.com/pdfs/gollum.pdf]]
