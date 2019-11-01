@@ -2,10 +2,31 @@
 >
 > Shakira 
 
-[_TOC_]
+# Global TOC 
+
+<<GlobalTOC()>>
+
+# Manual TOC 
+
+[[_TOC_]]
 
 - [Installations](programmation/installation.md)
+- [[programmation/installation.md]]
+- [[installation]]
+- [[installation.md]]
 - [Autre]
+
+## Installations :
+[[include:installation]]
+
+~~~~~~~~
+Here comes some code.
+~~~~~~~~
 
 #### Liens :
 [[link-text|http://example.com/pdfs/gollum.pdf]]
+
+{{{{{{ blue-modern
+    alice->bob: Test
+    bob->alice: Test response
+}}}}}}
