@@ -7,7 +7,7 @@
 [[_TOC_]]
 
 - [Installations](programmation/installation.md)
-- [[installation]]
+- [[programmation/installation]]
 - [Autre]
 
 ## Installations :
