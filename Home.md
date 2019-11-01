@@ -2,24 +2,16 @@
 >
 > Shakira 
 
-# Manual TOC 
-
 [[_TOC_]]
 
-- [Installations](programmation/installation.md)
-- [[test|programmation/installation]]
-- [Autre]
-
-## Installations :
 [[include:programmation/installation]]
 
-~~~~~~~~
-Here comes some code.
-~~~~~~~~
+### Liens :
+- [[link-text|http://example.com/pdfs/gollum.pdf]]
+- [Installations](programmation/installation.md)
+- [[test|programmation/installation]]
 
-#### Liens :
-[[link-text|http://example.com/pdfs/gollum.pdf]]
-
+### Schema 
 {{{{{{ blue-modern
     alice->bob: Test
     bob->alice: Test response
