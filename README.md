@@ -1,2 +1,0 @@
-# journal
-Note personnelle
